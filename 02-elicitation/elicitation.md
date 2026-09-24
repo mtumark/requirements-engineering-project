@@ -1,3 +1,5 @@
+# Week 2 - Elicit Information
+
 ## 1. Stakeholders
 * Equipment mngr. - Manage the booking, releasing and return 
 * Student - Booking and Borrowing shared equipment
