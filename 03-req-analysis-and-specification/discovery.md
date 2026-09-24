@@ -17,13 +17,17 @@ A) Problem / Observation B) Stakeholder need / concern C) Candidate requirement 
 **Worked example: "The system shall manage bookings efficiently."**
 
 FIND: “Efficiently” is vague.
+
 DIAGNOSE: It is subjective and not measurable/testable.
 * What does "**efficiently**" mean?
 * Who is involved? Which part of the booking proccess?
 * What should the system actually do?
 * How would we know whether it has been satisfied?
+  
 ASK: What part of the booking process currently causes difficulty
+
 REPAIR: The system shall allow users to create, view, modify, and cancel bookings and shall prevent double-booking of an unavailable time slot.
+
 CHECK: Test each booking operation and attempt a duplicate booking to verify that the system prevents double-booking.
 
 ## 4. Functional Requirements
