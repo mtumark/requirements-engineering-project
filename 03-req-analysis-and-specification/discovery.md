@@ -55,6 +55,8 @@ CHECK: Test each booking operation and attempt a duplicate booking to verify tha
 * What information is missing?
   - The specific booking details staff can create, edit, or delete, and the reminder timing, recipients, and delivery method.
 
+**Improved: The system shall send stakeholders a notification by email when a booking is created, modified, or cancelled.**
+
 ## 5. Quality Requirements
 *
 
