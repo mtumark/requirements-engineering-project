@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nnmsDxJbDzmVU1p5TpyI">
+    <mxGraphModel dx="1030" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;autosizeText=0;labelPosition=center;align=center;" value="Student" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-26" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;autosizeText=0;labelPosition=center;align=center;" value="Lecturer" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="5kq5ya_mIMZNr1KlQe-Z-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="508" y="170" as="sourcePoint" />
+            <mxPoint x="730.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5kq5ya_mIMZNr1KlQe-Z-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-34" edge="1" parent="1" source="5kq5ya_mIMZNr1KlQe-Z-17" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-40" parent="1" style="swimlane;startSize=0;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="290" width="449" x="220" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-48" connectable="0" parent="5kq5ya_mIMZNr1KlQe-Z-40" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="165" y="201.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-49" parent="5kq5ya_mIMZNr1KlQe-Z-48" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-50" parent="5kq5ya_mIMZNr1KlQe-Z-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cancel Booking" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-51" edge="1" parent="5kq5ya_mIMZNr1KlQe-Z-40" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5kq5ya_mIMZNr1KlQe-Z-49" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-60" y="100" as="sourcePoint" />
+            <mxPoint x="165" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;College Equipment Booking System&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="420" x="235" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="387.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-10" parent="5kq5ya_mIMZNr1KlQe-Z-13" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-12" parent="5kq5ya_mIMZNr1KlQe-Z-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Equipment Availability" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="385" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-16" parent="5kq5ya_mIMZNr1KlQe-Z-15" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-17" parent="5kq5ya_mIMZNr1KlQe-Z-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Booking" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="170" as="sourcePoint" />
+            <mxPoint x="388.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5kq5ya_mIMZNr1KlQe-Z-52" edge="1" parent="1" source="5kq5ya_mIMZNr1KlQe-Z-49" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="505" y="300.9967647058823" as="sourcePoint" />
+            <mxPoint x="740" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
