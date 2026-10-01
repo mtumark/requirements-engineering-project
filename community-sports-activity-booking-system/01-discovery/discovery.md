@@ -1,4 +1,4 @@
-# Week 1 - Intial Discovery
+# Intial Discovery
 
 ## 1. Facts
 * The community organisation manages different facilities, including sports pitches, sports halls, courts and other activity spaces.
