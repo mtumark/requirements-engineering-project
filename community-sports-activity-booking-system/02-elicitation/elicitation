@@ -1,0 +1,45 @@
+# Stakeholders & Requirements Elicitation
+
+## 1. Stakeholders
+* Users / Customers - Book and use the facilities.
+* Booking staff - Manage bookings and help customers.
+* Community management - Manage the organisation and facilities.
+* IT - Maintain and support the system.
+* Facility maintenance - Look after facilities and repairs.
+* Event organisers - Organise events and activities.
+
+## 2. Stakeholder needs and concerns
+* Users / Customers - Check availability, book, and cancel easily.
+* Booking staff - Have accurate bookings and fewer booking problems.
+* Community management - See bookings and manage booking rules.
+* IT - Keep the system secure, reliable, and working.
+* Facility maintenance - Know when facilities are available or under repair.
+* Event organisers - Check availability and book facilities for events.
+
+## 3. Unknowns
+* Who can book each facility?
+* How early can users book?
+* How long can they book for?
+* What happens if they cancel or do not show up?
+* Do different facilities have different rules?
+* Do users need to pay for bookings?
+
+## 4. Information sources
+* Who can book facilities	- Booking Staff / Community Management
+* Booking time limits	- Booking Staff / Facility Managers
+* Cancellation rules - Booking Staff / Community Management
+* Personal information and access	- Community Management / IT Staff
+* Different facility rules - Facility Managers / Booking Staff
+* Payment requirements	- Community Management / Booking Staff
+
+## 5. Elicitation questions
+* What are the common problems with the current booking system?
+* How are bookings made and confirmed now?
+* What rules apply when booking different facilities?
+* What happens when someone cancels or does not show up?
+* What information do staff need about users and bookings?
+
+## 6. Interview notes
+
+
+## 7. Candidate requirements
