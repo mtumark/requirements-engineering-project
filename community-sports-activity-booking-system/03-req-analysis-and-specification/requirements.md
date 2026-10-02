@@ -38,7 +38,7 @@ Some things are still unclear, like who can book, when they can book, how long t
 * The system shall protect users personal and booking information.
 
 ## 3. Requirements Surgery
-#### Requirement 1
+### Requirement 1
 Original requirement: The system shall let users check facility availability.
 
 **What is the problem?**
