@@ -40,6 +40,18 @@
 * What information do staff need about users and bookings?
 
 ## 6. Interview notes
-
+* Current booking process -	Bookings are made by phone, email, spreadsheets and calendars.
+* Booking problems	- Sometimes there are double bookings, and it can be hard to check if a facility is free.
+* Staff workload	- Staff spend a lot of time answering booking questions and updating booking information.
 
 ## 7. Candidate requirements
+#### Functional Requirements
+* The system shall let users check facility availability.
+* The system shall let users book an available facility.
+* The system shall let users cancel their bookings.
+* The system shall let authorised staff manage facility availability and booking rules.
+* The system shall send booking notifications.
+#### Non-Functional Requirements
+* The system shall require users to log in and only allow authorised staff to access admin functions.
+* The system shall be easy to use and accessible to all users.
+* The system shall protect users personal and booking information.
