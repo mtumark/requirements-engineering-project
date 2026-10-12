@@ -1,4 +1,4 @@
-## Week 4 - Requirements Modelling
+## Requirements Modelling
 
 ## Requirement used
 * The system shall allow users to check the availability of a facility for a selected date and time.
