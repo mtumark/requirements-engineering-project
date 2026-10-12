@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="N0eXiOQX1AmNvTInRKsY">
+    <mxGraphModel dx="1493" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;autosizeText=0;labelPosition=center;align=center;" value="User / Customer" vertex="1">
+          <mxGeometry height="60" width="30" x="105" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;autosizeText=0;labelPosition=center;align=center;" value="Booking Staff" vertex="1">
+          <mxGeometry height="60" width="30" x="710" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O39M-jKkgUm2ov18KMrQ-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="135" y="216" as="sourcePoint" />
+            <mxPoint x="355" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-6" parent="1" style="swimlane;startSize=0;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="400" width="449" x="195" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-7" connectable="0" parent="O39M-jKkgUm2ov18KMrQ-6" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="165" y="247.75" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-8" parent="O39M-jKkgUm2ov18KMrQ-7" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-9" parent="O39M-jKkgUm2ov18KMrQ-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cancel Booking" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-10" edge="1" parent="O39M-jKkgUm2ov18KMrQ-6" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O39M-jKkgUm2ov18KMrQ-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-60" y="146" as="sourcePoint" />
+            <mxPoint x="165" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-25" connectable="0" parent="O39M-jKkgUm2ov18KMrQ-6" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="164.5" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-26" parent="O39M-jKkgUm2ov18KMrQ-25" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-27" parent="O39M-jKkgUm2ov18KMrQ-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Facility Availability" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-11" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 tabindex=&quot;-1&quot; class=&quot;heading-element&quot; dir=&quot;auto&quot; style=&quot;box-sizing: border-box; margin-right: 0px; margin-bottom: 16px; margin-left: 0px; line-height: 1.25; border-bottom: 0.8px solid rgba(209, 217, 224, 0.7); padding-bottom: 0.3em; color: rgb(31, 35, 40); font-family: &amp;quot;Mona Sans VF&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans Backtick Fix&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot;&gt;Community Sports &amp;amp; Activity Booking System&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="420" x="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="362.5" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-13" parent="O39M-jKkgUm2ov18KMrQ-12" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-14" parent="O39M-jKkgUm2ov18KMrQ-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="View Facility Availability" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-16" parent="O39M-jKkgUm2ov18KMrQ-15" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-17" parent="O39M-jKkgUm2ov18KMrQ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Create Booking" vertex="1">
+          <mxGeometry height="22.5" width="110" x="5" y="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="135" y="216" as="sourcePoint" />
+            <mxPoint x="363.5" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="482.5" y="215.5" as="sourcePoint" />
+            <mxPoint x="711" y="215.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O39M-jKkgUm2ov18KMrQ-34" edge="1" parent="1" source="O39M-jKkgUm2ov18KMrQ-26" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="479.46000000000004" y="417.20000000000005" as="sourcePoint" />
+            <mxPoint x="711" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
