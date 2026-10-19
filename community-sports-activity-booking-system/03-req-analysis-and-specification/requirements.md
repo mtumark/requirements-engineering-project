@@ -170,7 +170,31 @@ Create and cancel a booking and check that the appropriate notification is sent 
 
 ## 4. Functional Requirements
 
+**FR01: The system shall allow users to view the availability of a facility for a selected date and time.**
+> Source: Customers
+> Verification: Select a facility, date and time and check that the correct availability is displayed.
+
+**FR02: The system shall allow users to book an available facility for a selected date and time.**
+> Source: Customers
+> Verification: Select an available facility and time and create a booking. Check that the booking is recorded and the facility is no longer shown as available for that time.
+
+**FR03: The system shall allow users to cancel their booking according to the applicable cancellation rules.**
+> Source: Customers / Booking Staff
+> Verification: Create a booking and cancel it according to the applicable rules. Check that the booking is cancelled correctly.
+
+**FR04: The system shall allow authorised staff to update facility availability and manage booking rules.**
+> Source: Booking Staff
+> Verification: Log in as authorised staff, update facility availability and booking rules, and check that the changes are saved correctly.
+
 ## 5. Quality Requirements
+
+**NFR-01: The system shall protect users' personal and booking information from unauthorised access.**
+> Why does it matter? Users' personal information needs to be protected.
+> How could it be checked? Test the system using a normal user account and an authorised staff account and check that users cannot access information or functions they are not authorised to access.
+
+**NFR-02: The system shall let users book a facility by themselves.**
+> To make booking easier for users and reduce staff workload.
+> Ask new users to make a booking and observe whether they can complete it without help.
 
 ## 6. Project Application
 
