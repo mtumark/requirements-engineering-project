@@ -38,6 +38,11 @@
 * What rules apply when booking different facilities?
 * What happens when someone cancels or does not show up?
 * What information do staff need about users and bookings?
+* Who is allowed to book the different facilities? Are there any restrictions?
+* How far in advance can users make bookings, and is there a maximum booking duration?
+* Are there any fees or payments required when booking certain facilities?
+* What should happen when a facility becomes unavailable due to maintenance?
+* What accessibility needs should the organisation consider for users?
 
 ## 6. Interview notes
 * Current booking process -	Bookings are made by phone, email, spreadsheets and calendars.
@@ -51,7 +56,15 @@
 * The system shall let users cancel their bookings.
 * The system shall let authorised staff manage facility availability and booking rules.
 * The system shall send booking notifications.
+* The system shall allow users to view their existing bookings.
+* The system shall prevent conflicting bookings for the same facility and time.
+* The system shall allow authorized staff to update booking information.
+* The system shall allow staff to view booking information when responding to user queries.
+
 #### Non-Functional Requirements
 * The system shall require users to log in and only allow authorised staff to access admin functions.
 * The system shall be easy to use and accessible to all users.
 * The system shall protect users personal and booking information.
+* The system shall keep booking information accurate and up to date.
+* The system shall be available when users need to check facility availability and make bookings.
+* The system shall be maintainable so that technical issues and system updates can be handled.
