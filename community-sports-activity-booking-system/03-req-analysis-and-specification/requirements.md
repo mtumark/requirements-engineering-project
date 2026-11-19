@@ -32,10 +32,18 @@ Some things are still unclear, like who can book, when they can book, how long t
 * The system shall let users cancel their bookings.
 * The system shall let authorised staff manage facility availability and booking rules.
 * The system shall send booking notifications.
+* The system shall allow users to view their existing bookings.
+* The system shall prevent conflicting bookings for the same facility and time.
+* The system shall allow authorized staff to update booking information.
+* The system shall allow staff to view booking information when responding to user queries.
+
 #### Non-Functional Requirements
 * The system shall require users to log in and only allow authorised staff to access admin functions.
 * The system shall be easy to use and accessible to all users.
 * The system shall protect users personal and booking information.
+* The system shall keep booking information accurate and up to date.
+* The system shall be available when users need to check facility availability and make bookings.
+* The system shall be maintainable so that technical issues and system updates can be handled.
 
 ## 3. Requirements Surgery
 ### Requirement 1
@@ -167,6 +175,84 @@ The system shall notify users when their booking is confirmed or cancelled.
 **How could it be verified?**
 
 Create and cancel a booking and check that the appropriate notification is sent to the user.
+
+### Requirement 6
+Original requirement: The system shall allow users to view their existing bookings.
+
+**What is the problem?**
+
+Does not explain what booking information users can view or whether they can only see their own bookings.
+
+**Clarification question**
+
+What booking information should users be able to see when viewing their existing bookings?
+
+**Important missing information**
+* Can users only view their own bookings?
+* What booking details should be displayed?
+* Should the booking status be shown?
+* Can users view past and upcoming bookings?
+
+**Improved requirement**
+
+The system shall allow users to view their own bookings, including the facility name, booking date, time and booking status.
+
+**How could it be verified?**
+
+Log in as a user and check that they can view their existing bookings with the correct details. Also check that they cannot view another user's bookings.
+
+### Requirement 7
+Original requirement: The system shall prevent conflicting bookings for the same facility and time.
+
+**What is the problem?**
+
+Does not explain what counts as a conflicting booking or how the system should handle overlapping booking times.
+
+**Clarification question**
+
+How should the system handle bookings that overlap with an existing booking for the same facility?
+
+**Important missing information**
+
+* Should the system prevent partially overlapping bookings?
+* Should it prevent bookings with exactly the same time?
+* Can different facilities be booked at the same time?
+* Do cancelled bookings still block the facility's availability?
+
+**Improved requirement**
+
+The system shall prevent users from booking a facility if the selected date and time overlap with an existing confirmed booking for the same facility.
+
+**How could it be verified?**
+
+Create a booking for a facility, then try to book the same facility for an overlapping time. Check that the system prevents the second booking.
+
+### Requirement 8
+Original requirement: The system shall allow authorized staff to update booking information.
+
+**What is the problem?**
+
+**Clarification question**
+
+**Important missing information**
+
+**Improved requirement**
+
+**How could it be verified?**
+
+### Requirement 9
+Original requirement: The system shall allow staff to view booking information when responding to user queries.
+
+**What is the problem?**
+
+**Clarification question**
+
+**Important missing information**
+
+**Improved requirement**
+
+**How could it be verified?**
+
 
 ## 4. Functional Requirements
 
