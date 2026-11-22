@@ -232,27 +232,54 @@ Original requirement: The system shall allow authorized staff to update booking 
 
 **What is the problem?**
 
+Does not explain which staff members are authorized or what booking information they are allowed to change.
+
 **Clarification question**
+
+What booking information should authorized staff be able to update?
 
 **Important missing information**
 
+* Which staff members can update bookings?
+* Can staff change the facility, date and time?
+* Can staff update the booking status?
+* Should the system check facility availability before saving changes?
+* Should changes made by staff be recorded?
+
 **Improved requirement**
 
+The system shall allow authorized staff to update booking details, including the facility, date, time and booking status, subject to facility availability.
+
 **How could it be verified?**
+
+Log in as authorized staff and try to update an existing booking. Check that the changes are saved and that conflicting booking times are not allowed. Also check that normal users cannot update other users' bookings.
 
 ### Requirement 9
 Original requirement: The system shall allow staff to view booking information when responding to user queries.
 
 **What is the problem?**
 
+Does not explain how staff can find a booking or what information they need to see when responding to user queries.
+
 **Clarification question**
+
+How should staff search for a booking and what information should they be able to view?
 
 **Important missing information**
 
+* Can staff search using the user's name?
+* Can staff search using a booking reference?
+* What booking details should be displayed?
+* Can all staff members access booking information?
+* Should staff be able to view both current and past bookings?
+
 **Improved requirement**
+
+The system shall allow authorized staff to search for and view booking information using a user's name or booking reference, including the facility name, booking date, time and booking status.
 
 **How could it be verified?**
 
+Log in as authorized staff and search for a booking using a user's name or booking reference. Check that the correct booking information is displayed and that unauthorized users cannot access it.
 
 ## 4. Functional Requirements
 
@@ -271,6 +298,22 @@ Original requirement: The system shall allow staff to view booking information w
 **FR04: The system shall allow authorised staff to update facility availability and manage booking rules.**
 > Source: Booking Staff
 > Verification: Log in as authorised staff, update facility availability and booking rules, and check that the changes are saved correctly.
+
+**FR05: The system shall allow users to view their own bookings, including the facility name, booking date, time and booking status.**
+> Source: Customers
+> Verification: Log in as a user and check that they can view their existing bookings with the correct details. Also check that they cannot view another user's bookings.
+
+**FR06: The system shall prevent users from booking a facility if the selected date and time overlap with an existing confirmed booking for the same facility.**
+> Source: Booking Staff
+> Verification: Create a booking for a facility, then try to book the same facility for an overlapping time. Check that the system prevents the second booking.
+
+**FR07: The system shall allow authorised staff to update booking details, including the facility, date, time and booking status, subject to facility availability.**
+> Source: Booking Staff
+> Verification: Log in as authorised staff and try to update an existing booking. Check that the changes are saved and conflicting booking times are not allowed.
+
+**FR08: The system shall allow authorised staff to search for and view booking information using a user's name or booking reference, including the facility name, booking date, time and booking status.**
+> Source: Booking Staff
+> Verification: Log in as authorised staff and search for a booking using a user's name or booking reference. Check that the correct booking information is displayed.
 
 ## 5. Quality Requirements
 
