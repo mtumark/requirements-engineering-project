@@ -299,19 +299,23 @@ Log in as authorized staff and search for a booking using a user's name or booki
 > Source: Booking Staff
 > Verification: Log in as authorised staff, update facility availability and booking rules, and check that the changes are saved correctly.
 
-**FR05: The system shall allow users to view their own bookings, including the facility name, booking date, time and booking status.**
+**FR05: The system shall notify users when their booking is confirmed or cancelled.**
+> Source: Customers
+> Verification: Create a booking and check that the user receives a confirmation notification. Then cancel the booking and check that the user receives a cancellation notification.
+
+**FR06: The system shall allow users to view their own bookings, including the facility name, booking date, time and booking status.**
 > Source: Customers
 > Verification: Log in as a user and check that they can view their existing bookings with the correct details. Also check that they cannot view another user's bookings.
 
-**FR06: The system shall prevent users from booking a facility if the selected date and time overlap with an existing confirmed booking for the same facility.**
+**FR07: The system shall prevent users from booking a facility if the selected date and time overlap with an existing confirmed booking for the same facility.**
 > Source: Booking Staff
 > Verification: Create a booking for a facility, then try to book the same facility for an overlapping time. Check that the system prevents the second booking.
 
-**FR07: The system shall allow authorised staff to update booking details, including the facility, date, time and booking status, subject to facility availability.**
+**FR08: The system shall allow authorised staff to update booking details, including the facility, date, time and booking status, subject to facility availability.**
 > Source: Booking Staff
 > Verification: Log in as authorised staff and try to update an existing booking. Check that the changes are saved and conflicting booking times are not allowed.
 
-**FR08: The system shall allow authorised staff to search for and view booking information using a user's name or booking reference, including the facility name, booking date, time and booking status.**
+**FR09: The system shall allow authorised staff to search for and view booking information using a user's name or booking reference, including the facility name, booking date, time and booking status.**
 > Source: Booking Staff
 > Verification: Log in as authorised staff and search for a booking using a user's name or booking reference. Check that the correct booking information is displayed.
 
