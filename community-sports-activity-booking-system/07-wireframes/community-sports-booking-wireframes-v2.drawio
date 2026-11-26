@@ -1,0 +1,219 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT" pages="5">
+  <diagram id="page1" name="01 Browse Facilities">
+    <mxGraphModel dx="1355" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="page1_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#555555;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="700" width="920" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365d;strokeColor=#17365d;fontColor=#ffffff;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" value="COMMUNITY SPORTS &amp;amp; ACTIVITY BOOKING" vertex="1">
+          <mxGeometry height="58" width="920" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#c4ccd4;fontColor=#17365d;fontStyle=1;fontSize=20;align=left;spacingLeft=12;verticalAlign=middle;" value="01 BROWSE FACILITIES" vertex="1">
+          <mxGeometry height="40" width="880" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#17365d;fontSize=11;align=right;verticalAlign=middle;" value="SCREEN 1 / 5" vertex="1">
+          <mxGeometry height="28" width="95" x="885" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" value="Find a facility for your activity. Choose a facility to check its availability." vertex="1">
+          <mxGeometry height="45" width="800" x="150" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#9aa9b8;fontSize=14;align=center;verticalAlign=middle;spacing=8;" value="Sports Hall&#xa;[facility image]&#xa;Indoor activities" vertex="1">
+          <mxGeometry height="180" width="230" x="155" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#9aa9b8;fontSize=14;align=center;verticalAlign=middle;spacing=8;" value="Sports Court&#xa;[facility image]&#xa;Court activities" vertex="1">
+          <mxGeometry height="180" width="230" x="435" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#9aa9b8;fontSize=14;align=center;verticalAlign=middle;spacing=8;" value="Outdoor Pitch&#xa;[facility image]&#xa;Outdoor activities" vertex="1">
+          <mxGeometry height="180" width="230" x="715" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="View availability" vertex="1">
+          <mxGeometry height="42" width="160" x="190" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="View availability" vertex="1">
+          <mxGeometry height="42" width="160" x="470" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="View availability" vertex="1">
+          <mxGeometry height="42" width="160" x="750" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="page1_13" parent="1" style="shape=note;whiteSpace=wrap;html=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Open question: Confirm the complete facility list and which details users need before choosing." vertex="1">
+          <mxGeometry height="58" width="800" x="150" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page2" name="02 Facility Availability">
+    <mxGraphModel dx="1355" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="page2_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#555555;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="700" width="920" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365d;strokeColor=#17365d;fontColor=#ffffff;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" value="COMMUNITY SPORTS &amp;amp; ACTIVITY BOOKING" vertex="1">
+          <mxGeometry height="58" width="920" x="90" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#c4ccd4;fontColor=#17365d;fontStyle=1;fontSize=20;align=left;spacingLeft=12;verticalAlign=middle;" value="02 FACILITY AVAILABILITY" vertex="1">
+          <mxGeometry height="40" width="880" x="110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#17365d;fontSize=11;align=right;verticalAlign=middle;" value="SCREEN 2 / 5" vertex="1">
+          <mxGeometry height="28" width="95" x="885" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#9aa9b8;fontStyle=1;fontSize=16;align=left;spacingLeft=10;" value="Selected facility: Sports Hall" vertex="1">
+          <mxGeometry height="45" width="800" x="150" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" value="Choose date" vertex="1">
+          <mxGeometry height="30" width="170" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#555555;fontSize=13;align=left;verticalAlign=middle;spacingLeft=8;" value="[Select date]" vertex="1">
+          <mxGeometry height="42" width="300" x="160" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="Check availability" vertex="1">
+          <mxGeometry height="42" width="180" x="480" y="292" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2f0d9;strokeColor=#70ad47;fontColor=#274e13;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="09:00 - 10:00     AVAILABLE" vertex="1">
+          <mxGeometry height="72" width="350" x="160" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce4d6;strokeColor=#c65911;fontColor=#7f2f0a;fontSize=13;align=center;verticalAlign=middle;" value="10:00 - 11:00     UNAVAILABLE" vertex="1">
+          <mxGeometry height="72" width="350" x="540" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2f0d9;strokeColor=#70ad47;fontColor=#274e13;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="11:00 - 12:00     AVAILABLE" vertex="1">
+          <mxGeometry height="72" width="350" x="160" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2f0d9;strokeColor=#70ad47;fontColor=#274e13;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="12:00 - 13:00     AVAILABLE" vertex="1">
+          <mxGeometry height="72" width="350" x="540" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" value="Select an available time slot to continue" vertex="1">
+          <mxGeometry height="35" width="500" x="160" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" value="Continue" vertex="1">
+          <mxGeometry height="42" width="150" x="740" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="page2_16" parent="1" style="shape=note;whiteSpace=wrap;html=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Illustrative time slots only. Actual hours, slot length and availability rules must be confirmed. Availability must reflect existing confirmed bookings." vertex="1">
+          <mxGeometry height="58" width="800" x="150" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page3" name="03 Booking Details">
+    <mxGraphModel dx="1100" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="page3_2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_3" value="COMMUNITY SPORTS &amp;amp; ACTIVITY BOOKING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365d;strokeColor=#17365d;fontColor=#ffffff;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_4" value="03 BOOKING DETAILS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#c4ccd4;fontColor=#17365d;fontStyle=1;fontSize=20;align=left;spacingLeft=12;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_5" value="SCREEN 3 / 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#17365d;fontSize=11;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="885" y="135" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_6" value="Selected facility: Sports Hall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#9aa9b8;fontStyle=1;fontSize=16;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="195" width="800" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_7" value="Selected date: [Date from Page 2]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#555555;fontSize=13;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="265" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_8" value="Selected time: [Available slot from Page 2]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#555555;fontSize=13;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="265" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_9" value="Your name (if required)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_10" value="[Enter name - requirement to confirm]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#555555;fontSize=13;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="382" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_11" value="Contact details (if required)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_12" value="[Enter contact details - requirement to confirm]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;fontColor=#555555;fontSize=13;align=left;verticalAlign=middle;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="382" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_13" value="Back to availability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="540" y="485" width="170" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_14" value="Review booking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="730" y="485" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page3_15" value="Do not assume an account, login or specific personal details. Confirm what information is necessary before making these fields mandatory." style="shape=note;whiteSpace=wrap;html=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="800" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page4" name="04 Review Booking">
+    <mxGraphModel dx="1100" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="page4_2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_3" value="COMMUNITY SPORTS &amp;amp; ACTIVITY BOOKING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365d;strokeColor=#17365d;fontColor=#ffffff;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_4" value="04 REVIEW BOOKING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#c4ccd4;fontColor=#17365d;fontStyle=1;fontSize=20;align=left;spacingLeft=12;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_5" value="SCREEN 4 / 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#17365d;fontSize=11;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="885" y="135" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_6" value="Please review the details before submitting." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#ffffff;fontSize=14;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="160" y="195" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_7" value="Facility: Sports Hall&#xa;Date: [Selected date]&#xa;Start time: [Selected start time]&#xa;End time: [Selected end time]&#xa;User details: [Only details required by the organisation]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#9aa9b8;fontSize=14;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="255" width="780" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_8" value="Back to edit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="570" y="485" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_9" value="Submit booking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="750" y="485" width="180" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page4_10" value="Before submission, the system should check availability again and prevent an overlapping confirmed booking (FR07)." style="shape=note;whiteSpace=wrap;html=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="800" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page5" name="05 After Submission">
+    <mxGraphModel dx="1100" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="page5_2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#555555;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_3" value="COMMUNITY SPORTS &amp;amp; ACTIVITY BOOKING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#17365d;strokeColor=#17365d;fontColor=#ffffff;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="920" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_4" value="05 AFTER SUBMISSION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#c4ccd4;fontColor=#17365d;fontStyle=1;fontSize=20;align=left;spacingLeft=12;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_5" value="SCREEN 5 / 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#17365d;fontSize=11;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="885" y="135" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_6" value="Booking request submitted" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2f0d9;strokeColor=#70ad47;fontColor=#274e13;fontStyle=1;fontSize=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="160" y="205" width="780" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_7" value="Your submission has been received.&#xa;&#xa;This message confirms submission only. It does not mean the booking is confirmed." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#9aa9b8;fontSize=14;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="700" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_8" value="The system will notify you when the booking is confirmed or cancelled (FR05).&#xa;Notification method and timing: to be confirmed." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#9aa9b8;fontSize=13;align=center;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="700" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_9" value="Return to facilities" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9eaf7;strokeColor=#477aa5;fontColor=#17365d;fontStyle=1;fontSize=13;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430" y="575" width="220" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="page5_10" value="Open question: Is a booking confirmed immediately or reviewed by staff? Do not show a confirmed status until this is established." style="shape=note;whiteSpace=wrap;html=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=left;verticalAlign=middle;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="800" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
